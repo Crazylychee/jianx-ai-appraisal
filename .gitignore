@@ -1,0 +1,4 @@
+.jianx-auth.json
+.jianx-oauth-pending.json
+.jianx-oauth-listener.json
+*.auth.json
